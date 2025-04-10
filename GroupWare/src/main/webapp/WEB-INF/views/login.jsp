@@ -63,7 +63,7 @@
                     </div>
 
                     <div class="col-12">
-                      <button class="btn btn-primary w-100" type="submit">CI/CD</button>
+                      <button class="btn btn-primary w-100" type="submit">Login</button>
                     </div>
 						<div class="col-12" style="display: flex;justify-content: center; align-items: center;">
 						<button type="button" class="btn btn-link small mb-0" 
