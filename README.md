@@ -267,7 +267,7 @@ DAO 구조 개선	Dao → DaoImpl → Service → Mapper → Service 간소화
 
 **JUnit 기반 DAO/Service 단위 테스트**
   
-Junit을 통한 단위테스트 총 47개의 테스트 케이스(, 문서양식 7건, 카테고리 6건)
+Junit을 통한 단위테스트 총 47개의 테스트 케이스
     
 결재문서 17건
 
