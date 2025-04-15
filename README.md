@@ -1,6 +1,6 @@
 # 📌 그룹웨어 기반의 전자결재 및 예약관리 시스템
 ### Spring Boot 마이그레이션
-  [https://github.com/gigachanyeol/gigacha](https://github.com/chan0yeol/gigachaBoot)
+  <https://github.com/chan0yeol/gigachaBoot>
 ### 프로젝트 산출물
   <https://drive.google.com/drive/folders/1k6ZlpR3hWTHIt6pSTNVf7SvRY1wnuoG_>
   
